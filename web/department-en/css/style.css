@@ -4857,8 +4857,8 @@ p {
 }
 
 .category-img {
-    width: 180px;
-    height: 180px;
+    width: 140px;
+    height: 140px;
     margin: auto;
     object-fit: cover;
 }
